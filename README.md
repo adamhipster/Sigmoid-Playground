@@ -2,4 +2,4 @@ This is inspired by http://matt.might.net/articles/rendering-mathematical-functi
 
 I refactored the code for readability.
 
-Demo: https://melvinroest.github.io/Sigmoid-Playground/
+Demo: https://mettamage.github.io/Sigmoid-Playground/
